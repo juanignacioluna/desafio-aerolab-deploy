@@ -1,0 +1,96 @@
+
+
+.CardProducto{
+	min-height: 250px;
+	width: 250px;
+	background: white;
+	cursor: pointer;
+	position: relative;
+}
+
+.CardProducto .productImg{
+	width: 100%;
+}
+
+.buy-contenedor{
+	display: flex;
+	justify-content: flex-end;
+}
+
+.buyIcon{
+	margin-top: 10px;
+}
+
+.CardProducto{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+}
+
+.categoria{
+	color:#b8b8b8;
+}
+
+.categoria, .modelo{
+	margin: 0;
+	padding: 0;
+}
+
+.CardProducto {
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+}
+
+.CardProducto:hover {
+	box-shadow: 0 10px 20px 0 rgba(0,0,0,0.2);
+}
+
+.modelo{
+	font-weight: bold;
+	color:grey;
+}
+
+.redeem-contenedor{
+	background: rgba(26, 215, 250, 0.75);
+	width:100%;
+	height: 100%;
+	position: absolute;
+	top:0;
+	left:0;
+	 
+}
+
+.costo{
+	display: inline-block;
+}
+
+.redeem-contenedor .buyIcon{
+	margin-right: 13px;
+	margin-top: 8px;
+}
+
+.redeem-contenedor section{
+	text-align: center;
+	margin-top: 40px;
+	color: #f2f2f2;
+}
+
+.no-redeem-contenedor{
+	position: absolute;
+	top: 0;
+	right: 0;
+	background: rgba(79, 79, 79, 0.5);
+	border-radius:999px;
+	padding: 5px;
+	margin-top: 10px;
+	margin-right: 20px;
+	color: #f2f2f2
+}
+
+.no-redeem-contenedor h6{
+	display: inline-block;
+}
+
+.modal-body{
+	text-align: center;
+}
