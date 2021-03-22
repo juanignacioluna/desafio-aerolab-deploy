@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/desafio-aerolab-deploy/static/css/main.6f9d49dd.chunk.css",
+    "main.js": "/desafio-aerolab-deploy/static/js/main.c8fc7ed0.chunk.js",
+    "main.js.map": "/desafio-aerolab-deploy/static/js/main.c8fc7ed0.chunk.js.map",
+    "runtime-main.js": "/desafio-aerolab-deploy/static/js/runtime-main.e4d9198c.js",
+    "runtime-main.js.map": "/desafio-aerolab-deploy/static/js/runtime-main.e4d9198c.js.map",
+    "static/js/2.3830b0aa.chunk.js": "/desafio-aerolab-deploy/static/js/2.3830b0aa.chunk.js",
+    "static/js/2.3830b0aa.chunk.js.map": "/desafio-aerolab-deploy/static/js/2.3830b0aa.chunk.js.map",
+    "index.html": "/desafio-aerolab-deploy/index.html",
+    "precache-manifest.796b29bb53e093d3e6f82edc7958e6da.js": "/desafio-aerolab-deploy/precache-manifest.796b29bb53e093d3e6f82edc7958e6da.js",
+    "service-worker.js": "/desafio-aerolab-deploy/service-worker.js",
+    "static/css/main.6f9d49dd.chunk.css.map": "/desafio-aerolab-deploy/static/css/main.6f9d49dd.chunk.css.map",
+    "static/js/2.3830b0aa.chunk.js.LICENSE.txt": "/desafio-aerolab-deploy/static/js/2.3830b0aa.chunk.js.LICENSE.txt",
+    "static/media/aerolab-logo.svg": "/desafio-aerolab-deploy/static/media/aerolab-logo.71af6f4b.svg",
+    "static/media/arrow-left.svg": "/desafio-aerolab-deploy/static/media/arrow-left.2e6efe58.svg",
+    "static/media/arrow-right.svg": "/desafio-aerolab-deploy/static/media/arrow-right.bedef383.svg",
+    "static/media/buy-blue.svg": "/desafio-aerolab-deploy/static/media/buy-blue.2f11a957.svg",
+    "static/media/buy-white.svg": "/desafio-aerolab-deploy/static/media/buy-white.40bc2813.svg",
+    "static/media/coin.svg": "/desafio-aerolab-deploy/static/media/coin.4669120c.svg",
+    "static/media/header-x2.png": "/desafio-aerolab-deploy/static/media/header-x2.a343e153.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4d9198c.js",
+    "static/js/2.3830b0aa.chunk.js",
+    "static/css/main.6f9d49dd.chunk.css",
+    "static/js/main.c8fc7ed0.chunk.js"
+  ]
+}
